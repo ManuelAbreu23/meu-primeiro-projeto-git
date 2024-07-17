@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+main {
+    margin: 20px 0 15px 15px;
+
+}
+
+
+.main-link {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 15px;
+    cursor: pointer;
+    margin: 5px;
+    color: #515151;
+}
+
+.main-log-in {
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    cursor: pointer;
+    width: 50px;
+    background: #0000ff;
+    color: #ffffff;
+    border-radius: 5px;
+    border: none;
+    margin-left: 8px;
+}
+
+
+img {
+    width: 150px;
+    height: 180px;
+    display: inline-block;
+    margin-top: 45px;
+    margin-left: 25px;
+}
+
+header {
+    display: inline-block;
+    margin-left: 25px;
+   
+}
+h1 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 15px;
+    width: 150px
+
+}
+h2 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 15px;
+    margin: 10px 0 10px 0;
+    color:#515151;
+    
+}
+p {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 13px;
+    width: 227px;
+
+      
+}
+
+.header-Explore {
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    cursor: pointer;
+    width: 50px;
+    background: #00ff00;
+    color: #ffffff;
+    border-radius: 8px;
+    border: none;
+    margin-top: 8px;
+
+}
